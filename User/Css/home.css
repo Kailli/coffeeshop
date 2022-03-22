@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(231, 206, 174);
+}
+h1{
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #b8b8b8;
+    color:antiquewhite;
+}
+h5{
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #ffee00;
+    color:brown;
+}
+
+#card{
+    background-color: antiquewhite;
+    width:30%;
+}
+.icon-bar{
+    background-color: darkgoldenrod;
+}
